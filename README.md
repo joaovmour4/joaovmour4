@@ -18,7 +18,7 @@
 <div>
 <a href="https://github.com/joaovmour4">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmour4&layout=compact&langs_count=8&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovmour4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovmour4&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
 
 
