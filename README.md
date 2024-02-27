@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Vitor!
 
-- 🔭 I’m currently working on MG Contabilidade and Exception Júnior
+- 🔭 I’m currently working on MG Contabilidade and Exception Junior
 
 
 
